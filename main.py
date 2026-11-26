@@ -9,8 +9,8 @@ import os
 import stat
 
 LINE = (
-    "Synchronized Apologizing: two athletes take turns saying sorry "
-    "for four minutes straight; gold goes to whoever means it least."
+    "Synchronized Apologizing: two athletes bow, say sorry, then "
+    "apologize for the apology; gold goes to whoever means it least."
 )
 
 
